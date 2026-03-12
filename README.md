@@ -64,3 +64,5 @@ This project is licensed under the **MIT License**.
 Created by **shadownight4000**
 
 Powered by **BloxTuan**
+
+Check [ThreatForge](https://github.com/BloxTuan/ThreatForge) out which has advanced scanning and better scan rate.
