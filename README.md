@@ -4,6 +4,8 @@ ThreatForgeLite is a open-source lightweight Windows security analysis tool desi
 
 The tool analyzes common persistence locations used by malware such as registry autoruns, startup programs, scheduled tasks, running processes, and network connections. It then generates a threat score and scan logs to help users understand the overall security state of their system.
 
+This tool was coded and works fully on PowerShell
+
 ## Features
 
 - Windows Defender status check
